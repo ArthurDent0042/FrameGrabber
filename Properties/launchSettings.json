@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FrameGrabber": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"D:\\TV\\Bering Sea Gold\\Bering.Sea.Gold.S01.720p.HDTV.x264\\Bering.Sea.Gold.S01E01.720p.HDTV.x264-MOMENTUM.mkv\" --auto 25"
+    }
+  }
+}
