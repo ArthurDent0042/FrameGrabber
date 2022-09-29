@@ -64,4 +64,9 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="publish\linux-x64\" />
+    <Folder Include="publish\win-x64\" />
+  </ItemGroup>
+
 </Project>
